@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://git.1ziton.com/giscafer/mongo-js.git"
+    "url": "http://https://github.com/giscafer/mongo-js.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "giscafer",
+  "license": "MIT",
   "dependencies": {
     "eventproxy": "^1.0.0",
     "mongodb": "^3.0.10",
